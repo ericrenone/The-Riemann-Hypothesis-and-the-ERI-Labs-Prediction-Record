@@ -19,6 +19,14 @@
 
 ---
 
+- https://github.com/ericrenone/The-Bifurcation-of-Mathematical-Practice
+
+- https://github.com/ericrenone/Emergence-of-Mathematics
+
+- https://github.com/ericrenone/Mathematical-Structures-Reorganize-Entire-Systems
+
+---
+
 
 ## Contents
 
