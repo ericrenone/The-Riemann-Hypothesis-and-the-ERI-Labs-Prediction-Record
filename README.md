@@ -15,6 +15,11 @@
 
 ---
 
+<img width="1300" height="1504" alt="Screenshot 2026-11-24 134244" src="https://github.com/user-attachments/assets/83cf14a8-8ce8-48f2-a235-d25a48b2b547" />
+
+---
+
+
 ## Contents
 
 1. [TL;DR](#1-tldr)
